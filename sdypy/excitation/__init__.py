@@ -1,6 +1,4 @@
-"""
-A project template for the SDyPy effort..
-"""
+"""sdypy.excitation - excitation signal generation (random, burst, sine-sweep, PSD-based, non-Gaussian), re-exported from pyExSi under the sdypy namespace."""
 
 from importlib.metadata import version, PackageNotFoundError
 
